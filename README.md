@@ -4,7 +4,7 @@ A React Native mobile app built with Expo for tracking personal expenses. View r
  
 ---
  
-## 📱 Screenshots
+## Screenshots
  
 > Add screenshots of your app here.
  
