@@ -114,8 +114,6 @@ App settings are managed in `app.json`:
 | Orientation | Portrait |
 | EAS Project ID | `8eccf8fd-ebe6-4bb9-8558-1be91de823df` |
  
----
- 
 ## Theming
  
 Colors are defined in `constants/styles.js` via `GlobalStyles.colors`. The app uses a purple/indigo primary palette with an amber accent.
