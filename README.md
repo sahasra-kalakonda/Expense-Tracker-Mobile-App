@@ -26,8 +26,6 @@ A React Native mobile app built with Expo for tracking personal expenses. View r
 | Expo Font | ~11.10.3 |
 | Expo Linear Gradient | ~12.7.2 |
  
----
- 
 ## 📁 Project Structure
  
 ```
