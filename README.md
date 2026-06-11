@@ -116,7 +116,7 @@ App settings are managed in `app.json`:
  
 ---
  
-## 🎨 Theming
+## Theming
  
 Colors are defined in `constants/styles.js` via `GlobalStyles.colors`. The app uses a purple/indigo primary palette with an amber accent.
  
