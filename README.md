@@ -47,7 +47,7 @@ A React Native mobile app built with Expo for tracking personal expenses. View r
     └── expenses-context.js # React Context for expense state
 ```
  
-## 🚀 Getting Started
+## Getting Started
  
 ### Prerequisites
  
