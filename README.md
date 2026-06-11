@@ -10,7 +10,7 @@ A React Native mobile app built with Expo for tracking personal expenses. View r
  
 ---
  
-## ✨ Features
+## Features
  
 - **Recent Expenses** — View expenses from the last 7 days at a glance
 - **All Expenses** — Browse your full expense history
