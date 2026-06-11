@@ -15,7 +15,7 @@ A React Native mobile app built with Expo for tracking personal expenses. View r
 - **Bottom Tab Navigation** — Fast switching between Recent and All views
 - **Modal Stack Navigation** — Smooth UX for adding and editing entries
 
-## 🛠 Tech Stack
+## Tech Stack
  
 | Technology | Version |
 |---|---|
