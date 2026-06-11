@@ -101,9 +101,7 @@ eas build --platform android --profile preview
 eas build --platform all --profile production
 ```
  
----
- 
-## ⚙️ Configuration
+## Configuration
  
 App settings are managed in `app.json`:
  
