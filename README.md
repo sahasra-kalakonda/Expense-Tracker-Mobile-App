@@ -1,4 +1,4 @@
-# 💸 My Expense Tracker
+# My Expense Tracker
  
 A React Native mobile app built with Expo for tracking personal expenses. View recent expenses, browse all-time history, and add or edit entries — all in a clean, intuitive interface.
  
