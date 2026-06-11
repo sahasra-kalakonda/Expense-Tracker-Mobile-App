@@ -83,8 +83,6 @@ npm run ios
 npm run web
 ```
  
----
- 
 ## 📦 Building for Production
  
 This project uses [EAS Build](https://docs.expo.dev/build/introduction/).
