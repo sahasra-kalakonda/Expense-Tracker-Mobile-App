@@ -2,13 +2,9 @@
  
 A React Native mobile app built with Expo for tracking personal expenses. View recent expenses, browse all-time history, and add or edit entries — all in a clean, intuitive interface.
  
----
- 
 ## Screenshots
  
 > Add screenshots of your app here.
- 
----
  
 ## Features
  
@@ -18,8 +14,7 @@ A React Native mobile app built with Expo for tracking personal expenses. View r
 - **Context API** — Lightweight global state management (no Redux needed)
 - **Bottom Tab Navigation** — Fast switching between Recent and All views
 - **Modal Stack Navigation** — Smooth UX for adding and editing entries
----
- 
+
 ## 🛠 Tech Stack
  
 | Technology | Version |
